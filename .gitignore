@@ -1,0 +1,12 @@
+/vendor
+/public/img
+/public/uploads
+/node_modules
+/bootstrap
+/storage
+/tests
+/public/storage
+Homestead.yaml
+Homestead.json
+.env
+tridente.sql
